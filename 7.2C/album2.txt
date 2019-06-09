@@ -1,0 +1,34 @@
+ASAP Rocky
+Testing
+1
+15
+Distorted Records
+sounds/00-Distorted-Records.mp3
+Asap Forever
+sounds/01-Asap-Forever.mp3
+Tony Tone
+sounds/02-Tony-Tone.mp3
+Fukk Sleep
+sounds/03-Fukk-Sleep.mp3
+Praise the Lord
+sounds/04-Praise-the-Lord.mp3
+Calldrops
+sounds/05-Calldrops.mp3
+Buck Shots
+sounds/06-Buck-Shots.mp3
+Gunz N Butter
+sounds/07-Gunz-N-Butter.mp3
+Brotha Man
+sounds/08-Brotha-Man.mp3
+OG Beeper
+sounds/09-OG-Beeper.mp3
+Kids Turned Out Fine
+sounds/10-Kids-Turned-Out-Fine.mp3
+Hun43rd
+sounds/11-Hun43rd.mp3
+Changes
+sounds/12-Changes.mp3
+Black Tux, White Collar
+sounds/13-Black-Tux-White-Collar.mp3
+Purity
+sounds/14-Purity.mp3
